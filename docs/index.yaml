@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  filestash:
+  - apiVersion: v2
+    appVersion: f72b630
+    created: "2024-03-07T13:55:42.355492682Z"
+    description: A Helm chart for Kubernetes
+    digest: 42119dc12f653ef3256630ba3e39c58a6395c2129f2cd21042aef6aba1a29482
+    name: filestash
+    type: application
+    urls:
+    - https://majdeldin7.github.io/helm/filestash-0.2.0.tgz
+    version: 0.2.0
+generated: "2024-03-07T13:55:42.354193555Z"
