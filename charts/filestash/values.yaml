@@ -42,7 +42,7 @@ securityContext: {}
 service:
   type: NodePort
   port: 8443
-  nodePort: 30333
+  nodePort: 30185
 
 ingress:
   enabled: false
